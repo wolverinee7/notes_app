@@ -44,6 +44,5 @@ class _EditNotesColorsListState extends State<EditNotesColorsList> {
             );
           }),
     );
-    ;
   }
 }
